@@ -1,0 +1,38 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="https://marcelbraun.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>dff2dfc5df9ddfd9dfc5dfc9dfd2dfcbdf95</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>marcelbraun</username>
+    </YouTrack>
+    <Mantis shared="true" url="https://bugtracker.marcel-braun.de">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentFilter">
+        <MantisFilter id="0" name="-- all issues --" />
+      </option>
+      <option name="currentProject">
+        <MantisProject id="1" name="Telegraf" />
+      </option>
+      <password>dff2dfc5df9ddfd9dfc5dfc9dfd2dfcbdf95</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>marcel</username>
+    </Mantis>
+  </component>
+</application>
