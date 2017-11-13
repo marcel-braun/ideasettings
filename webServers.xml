@@ -25,6 +25,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="90376f3d-de34-4838-bc8a-f73e091a1ea1" name="Webserver - Root" url="http://marcel-braun.de">
+        <fileTransfer host="marcel-braun.de" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
