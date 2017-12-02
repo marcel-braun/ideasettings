@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="8e66d22a-03cd-4826-bff0-ac2c3d787ddb" name="lu-blumberg" url="http://lu-blumberg.de">
+        <fileTransfer host="lu-blumberg.de" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="7f99c4e8-92ce-476f-94f1-7ef6e7aa5cac" name="LRK-Moebel" url="http://v387.timmehosting.de">
         <fileTransfer host="v387.timmehosting.de" port="21" rootFolder="/web">
           <advancedOptions>
