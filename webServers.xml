@@ -17,7 +17,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="c669c60b-5454-48b6-aaba-44d5ef4196a9" name="Webserver" url="http://marcel-braun.de">
+      <webServer id="c669c60b-5454-48b6-aaba-44d5ef4196a9" name="marcel-braun.de" url="http://marcel-braun.de">
         <fileTransfer host="marcel-braun.de" port="22" rootFolder="/var/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -33,12 +33,12 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="55191b1a-4de1-46a2-8829-81d7fea0be57" name="webserver.lan" url="http://webserver.lan">
-        <fileTransfer host="webserver.lan" port="22" rootFolder="/home/webserver" accessType="SFTP">
+      <webServer id="a2bf271b-4d95-4ec8-affd-1cbe712aba85" name="fstack.biz" url="http://fstack.biz">
+        <fileTransfer host="fstack.biz" port="2222" rootFolder="/home/fstack" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
     </option>
