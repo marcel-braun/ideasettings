@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="NPM" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="npm" />
+      <option name="PARAMETERS" value="run serve" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/bietemir_ionic" />
+    </exec>
+  </tool>
+</toolSet>
