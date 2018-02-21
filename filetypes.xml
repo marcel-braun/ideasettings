@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="images" type="PLAIN_TEXT" />
+      <mapping ext="xcconfig" type="PLAIN_TEXT" />
+      <mapping ext="admob" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
