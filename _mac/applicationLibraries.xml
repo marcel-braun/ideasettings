@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Python/2.7/site-packages" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Python/2.7/site-packages" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
