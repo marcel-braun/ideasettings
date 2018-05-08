@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1486390e-61fc-4100-b7a5-5a45bbc97cf1" name="Stylinkz Webserver" url="http://py.stylinkz.com">
-        <fileTransfer host="py.stylinkz.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/opt" accessType="SFTP" keyPair="true">
+        <fileTransfer host="py.stylinkz.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
